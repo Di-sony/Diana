@@ -1,0 +1,39 @@
+/* css/style.css */
+
+/* Базові стилі для всього тіла документа */
+body {
+    font-family: 'Verdana', sans-serif; 
+    padding: 0;
+    background-color: #facfd2;
+    color: #003366; 
+}
+
+ #main-container {
+    display: flex;
+    min-height: 100vh;
+}
+
+}
+
+#sidebar-nav p {
+    font-size: 1.1em;
+    margin-bottom: 10px;
+    font-family: 'Georgia', serif;
+}
+
+
+
+}
+
+ul li {
+    margin-bottom: 8px;
+}
+
+ul li a {
+    color: #007bff;
+    text-decoration: none;
+}
+
+ul li a:hover {
+    text-decoration: underline;
+}
